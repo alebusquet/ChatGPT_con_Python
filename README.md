@@ -4,7 +4,7 @@
 ______
 
 
-### Sencillo programa que muestra la manera de utilizar Chat GPT mediante el uso de código Python.<br><br>
+### Aplicación que muestra la manera de utilizar Chat GPT mediante el uso de código Python<br><br>
 
 
 1. `Considerar que para poder ejecutarlo, es necesario realizar un paso previo:`
