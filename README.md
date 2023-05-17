@@ -22,9 +22,9 @@ ______
 
 - Clonar el repositorio
 - Crear el etorno virtual e ingresar al mismo
-- Ejecutar el archivo 'requirements.txt' para contar con las librerías necesarias (pip install -r requirements.txt)
+- Ejecutar el archivo 'requirements.txt' para contar con las librerías necesarias ('pip install -r requirements.txt')
 - Editar el archivo 'config.py' para agregar la API-KEY generada y guardar
-- Ejecutar el archivo chatgpt.py (python -u chatgpt.py)
+- Ejecutar el archivo chatgpt.py ('python -u chatgpt.py' para ejecutarlo desde Terminal)
 - Formular las consultas deseadas a ChatGPT
 - Al finalizar, salir del bucle con 'exit'
 <br><br>
