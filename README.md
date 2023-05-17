@@ -9,7 +9,7 @@ ______
 
 1. `Considerar que para poder ejecutarlo, es necesario realizar un paso previo:`
 
-#### `   —> Generar una APY-KEY por medio de la web de openai:`
+"   —> Generar una APY-KEY por medio de la web de openai:"
 
 - Ir a la web https://www.openai.com/api
 - lr a “Get Started”
