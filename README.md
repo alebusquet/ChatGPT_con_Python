@@ -9,7 +9,7 @@ ______
 
 1. `Considerar que para poder ejecutarlo, es necesario realizar un paso previo:`
 
-#### `—> Generar una APY-KEY por medio de la web de openai:`
+#### `   —> Generar una APY-KEY por medio de la web de openai:`
 
 - Ir a la web https://www.openai.com/api
 - lr a “Get Started”
@@ -18,7 +18,7 @@ ______
 - Click en “+ Create new secret key”
 - Tomar nota y guardar (nunca hacerla pública)
 <br><br>
-2. Una vez realizado el paso anterior, se procede de la siguiente manera:
+2. `Una vez realizado el paso anterior, se procede de la siguiente manera:`
 
 - Clonar el repositorio
 - Crear el etorno virtual e ingresar al mismo
