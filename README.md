@@ -7,7 +7,7 @@ ______
 #### Sencillo programa que muestra la manera de utilizar Chat GPT mediante el uso de código Python.<br><br>
 
 
-1. Considerar que para poder ejecutarlo, es necesario realizar un paso previo:
+1. `Considerar que para poder ejecutarlo, es necesario realizar un paso previo:`
 
 #### `—> Generar una APY-KEY por medio de la web de openai:`
 
@@ -24,7 +24,7 @@ ______
 - Crear el etorno virtual e ingresar al mismo
 - Ejecutar el archivo 'requirements.txt' para contar con las librerías necesarias (pip install -r requirements.txt)
 - Editar el archivo 'config.py' para agregar la API-KEY generada y guardar
-- Ejecutar el. archivo chatgpt.py (python -u chatgpt.py)
+- Ejecutar el archivo chatgpt.py (python -u chatgpt.py)
 - Formular las consultas deseadas a ChatGPT
 - Al finalizar, salir del bucle con 'exit'
 <br><br>
