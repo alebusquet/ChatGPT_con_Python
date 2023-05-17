@@ -4,17 +4,12 @@
 ______
 
 
-#### Este sencillo programa demuestra la posibilidad de utilizar Chat GPT mediante el uso de Python.<br><br>
+#### Sencillo programa que demuestra la posibilidad de utilizar Chat GPT mediante el uso de Python.<br><br>
 
 
-1. Considerar que para poder lograrlo, es necesario realizar dos pasos previos:
+1. Considerar que para poder ejecutarlo, es necesario realizar un paso previo:
 
-#### `—> Instalar la librería de openai en el entorno de trabajo`
-
-Para esto hay que ir a la línea de comandos (puede ser en VSC o directo en la Terminal) y ejecutar:<br><br>
-pip install openai <br><br>
-
-#### `—> Generar una APY-KEY por medio de la web de openai`
+#### `—> Generar una APY-KEY por medio de la web de openai:`
 
 - Ir a la web https://www.openai.com/api
 - lr a “Get Started”
@@ -23,13 +18,15 @@ pip install openai <br><br>
 - Click en “+ Create new secret key”
 - Tomar nota y guardar (nunca hacerla pública)
 <br><br>
-2. Una vez realizados estos pasos previos, proceder de la siguiente manera:
+2. Una vez realizado el paso anterior, se procede de la siguiente manera:
 
-- Crear el archivo config.py, donde solo se guardará la API-KEY (podrá ser mismo en el directorio o creando un entorno virtual)
-- Luego crear el archivo chatgpt.py (el código del mismo en el presente repositorio)
-- Ejecutar el archivo con ‘python -u chatgpt.py’
-- Formular las preguntas
-- Salir del bucle con exit
+- Clonar el repositorio
+- Crear el etorno virtual e ingresar al mismo
+- Ejecutar el archivo 'requirements.txt' para contar con las librerías necesarias (pip install -r requirements.txt)
+- Editar el archivo 'config.py' para agregar la API-KEY generada y guardar
+- Ejecutar el. archivo chatgpt.py (python -u chatgpt.py)
+- Formular las consultas deseadas a ChatGPT
+- Al finalizar, salir del bucle con 'exit'
 <br><br>
 Repositorio de openai para python: https://github.com/openai/openai-python
 <br><br>
