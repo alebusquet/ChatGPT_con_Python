@@ -36,6 +36,6 @@ ______
 
 ### Alejandro Busquet
 
-## * [Linkedin](https://www.linkedin.com/in/alejandro-busquet/ "Linkedin")
-## * Mail: algabu00@gmail.com
+### * [Linkedin](https://www.linkedin.com/in/alejandro-busquet/ "Linkedin")
+### * Mail: algabu00@gmail.com
 
