@@ -1,10 +1,10 @@
 # ChatGPT con Python
 
 ## Consultas a ChatGPT utilizando código de Python
-______
-
 
 ### Desarrollo de aplicación que permite utilizar ChatGPT mediante el uso de código Python<br><br>
+
+______
 
 
 1. `Considerar que para poder ejecutarlo, es necesario realizar un paso previo:`
