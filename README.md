@@ -30,10 +30,12 @@ ______
 Repositorio de openai para python: https://github.com/openai/openai-python
 <br><br>
 
+______
+
 ### `Autor:`
 
-Alejandro Busquet
+### Alejandro Busquet
 
-* [Linkedin](https://www.linkedin.com/in/alejandro-busquet/ "Linkedin")
-* Mail: algabu00@gmail.com
+## * [Linkedin](https://www.linkedin.com/in/alejandro-busquet/ "Linkedin")
+## * Mail: algabu00@gmail.com
 
